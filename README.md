@@ -5,7 +5,9 @@ The Parser is able to validate all JSON strings raise the error accordingly. It 
 * Validation of duplicate key is not implemented.
 
 ## Inside Description
-The parser takes a json file as input which contains the JSON Object for validating file only. We use Recursive Descent parsing, by creating my own grammer for JSON.
+The parser takes a json file as input which contains the JSON Object for validating file only. 
+For proper validations this repo has 7 json files, its been commented out in Default.java file.
+JSONvalidator use Recursive Descent parsing, with its own grammer for JSON.
 
 ## JSON Grammer
 * S -> {X}
