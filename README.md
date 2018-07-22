@@ -1,5 +1,5 @@
 # Json-Parser
-The Parser is able to validate all JSON strings raise the error accordingly. It gives an error message in case of invalid JSON.
+The Parser is able to validate all JSON strings and raise the error accordingly. It gives an error message in case of invalid JSON.
 
 ## Pitfalls
 * Validation of duplicate key is not implemented.
